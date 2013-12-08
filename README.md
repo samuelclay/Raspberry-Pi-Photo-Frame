@@ -1,23 +1,3 @@
-<style>
-.rpi-article img {
-    border: 1px solid #303030;
-}
-.rpi-article .rpi-lcd {
-    margin: 12px 0;
-}
-.rpi-article .rpi-lcd img {
-    width: 202px;
-    height: 156px;
-    margin-right: 16px;
-}
-.rpi-image-float {
-    float: right; 
-    margin: 0 0 0 24px;
-}
-</style>
-
-<div class="rpi-article">
-
 Every hardware hacker has a start, and this one is mine. [My girlfriend](http://twitter.com/brittanymorgan) bought me a [Raspberry Pi](http://raspberrypi.org) for my birthday, and so I became determined to build something with it for her birthday two months later.
 
 <img src="http://static.newsblur.com.s3.amazonaws.com/ofbrooklyn/RPi%20-%20Photo%20Frame%20corrected.jpg" width=640 style="border: 1px solid #303030; margin: 0 0 24px;">

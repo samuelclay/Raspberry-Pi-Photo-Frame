@@ -123,10 +123,11 @@ You'll want to make sure you're setup with the following:
 
 You'll need to [register your Flickr app](http://www.flickr.com/services/apps/create/apply/), which is a quick process. That way you can get a Flickr API key that you can then use to walk your account. You will also need your [Flickr user id](http://idgettr.com).
 
-There are two Python library dependencies for this code:
+There are two Python library dependencies for this code: _flickrapi_ and _requests_.
 
-    pip install flickrapi
-    pip install requests
+To install, simlpy run:
+
+    sudo pip install -r requirements.txt
 
 Once those are installed, save this script as `download_flickr.py`
     

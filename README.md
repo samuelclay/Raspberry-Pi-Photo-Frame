@@ -179,7 +179,7 @@ Once those are installed, save this script as `download_flickr.py`
 Add this to your crontab with `crontab -e`:
 
     0 * * * * python /home/pi/photoframe/download_flickr.py
-    30 * * * * FLICKR_TAG /home/pi/photoframe/download_koalas.sh
+    30 * * * * FLICKR_TAG=koala /home/pi/photoframe/download_koalas.sh
 
 ### Automatic start of the photo frame software
 

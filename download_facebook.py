@@ -7,8 +7,8 @@ import logging
 # plugin your username and access_token (Token can be get and 
 # modified in the Explorer's Get Access Token button):
 # https://graph.facebook.com/USER_NAME/photos?type=uploaded&fields=source&access_token=ACCESS_TOKEN_HERE
-FACEBOOK_USER_ID = "10203552316662505"
-FACEBOOK_ACCESS_TOKEN = "CAACEdEose0cBAKtF3S5WUN4qSRxljDPWoB28DJmbsd6O71Nz7REORmZAGYrYD8wW8kNE3CDdZBFxZCu4aMQZBtz5XLftzLjlnVjNZBu7TNW6YCEKdJXEVS5ZAZA8mMEypQLrXviYrj68QFdpeaaqiIZBjxSQ0tgZB9x8ME6LjZCUXycZBLzZADUnTN75kjLUNPidmKbTlj5OhEEvnWmkU4ATFCVkUz83JfcHhNkZD"
+FACEBOOK_USER_ID = "YOUR_USER_ID"
+FACEBOOK_ACCESS_TOKEN = "YOUR_ACCESS_TOKEN"
 
 def get_logger(label='lvm_cli', level='INFO'):
     """
